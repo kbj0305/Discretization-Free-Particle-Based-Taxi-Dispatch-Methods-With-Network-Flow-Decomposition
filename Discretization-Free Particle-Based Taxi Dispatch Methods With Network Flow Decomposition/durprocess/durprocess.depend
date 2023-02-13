@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1583668003 source:/home/corerl/kbj0305/limit data/durprocess/main.cpp
+	<stdio.h>
+	<assert.h>
+	<queue>
+	<thread>
+
+1593152988 source:c:\kbj0305\limit data\durprocess\main.cpp
+	<stdio.h>
+	<assert.h>
+	<queue>
+	<thread>
+
