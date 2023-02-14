@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1581348386 source:/home/corerl/kbj0305/new taxi/maxflowopt/main.cpp
+	<stdio.h>
+	<assert.h>
+	<set>
+
+1582793994 source:/home/corerl/kbj0305/new taxi-1/maxflowopt/main.cpp
+	<stdio.h>
+	<assert.h>
+	<set>
+	<stdlib.h>
+
+1583276569 source:/home/corerl/kbj0305/limit data/maxflowopt/main.cpp
+	<stdio.h>
+	<assert.h>
+	<set>
+	<stdlib.h>
+
+1632405653 source:c:\kbj0305\limit data\maxflowopt\main.cpp
+	<stdio.h>
+	<assert.h>
+	<set>
+	<stdlib.h>
+

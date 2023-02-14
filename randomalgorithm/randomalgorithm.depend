@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578203842 source:/home/corerl/kbj0305/new taxi/randomalgorithm/main.cpp
+	<iostream>
+	<stdlib.h>
+
+1593152984 source:c:\kbj0305\limit data\randomalgorithm\main.cpp
+	<iostream>
+	<stdlib.h>
+
